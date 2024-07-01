@@ -1,0 +1,7 @@
+apache-flink==1.13.2
+pyflink==1.13.2
+kafka-python==2.0.2
+logging==0.5.1.2
+jsonlib==1.6.1
+pandas==1.3.4
+numpy==1.21.2
