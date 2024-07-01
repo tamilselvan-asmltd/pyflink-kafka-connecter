@@ -166,20 +166,8 @@ This repository contains example code for integrating Apache Flink with Apache K
     python flink_consumer.py
     ```
 ## input
-```json
-{
 
-  “name”: “Flink doc”,
-
-  “size”: 22
-
-  “unit”: “bytes”,
-
-  “encoded”: true,
-
-  “content”: “This is a test content”
-
-}
+{    “name”: “Flink doc”,    “size”: 22    “unit”: “bytes”,    “encoded”: true,    “content”: “This is a test content”  }
 ## Output
 
 The Flink consumer will print the JSON object with the data types of each key in the consumed Kafka messages. The output should look similar to this:
