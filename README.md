@@ -163,7 +163,7 @@ This repository contains example code for integrating Apache Flink with Apache K
 
 2. Run the Flink consumer:
     ```sh
-    python flink_consumer.py
+    python pyflink_datatype.py
     ```
 ## input
 
